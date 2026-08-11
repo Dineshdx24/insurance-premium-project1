@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+mlruns/
+catboost_info/
+
+*.pyc
+*.db
+*.pem
+train.csv
+test.csv
