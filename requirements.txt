@@ -1,7 +1,7 @@
 streamlit
-pandas
-numpy
-scikit-learn
+pandas==2.3.3
+numpy==2.2.6
+scikit-learn==1.7.2
+category-encoders==2.8.1
 lightgbm
-category-encoders
 joblib
