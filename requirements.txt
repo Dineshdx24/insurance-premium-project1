@@ -1,7 +1,15 @@
 streamlit
+<<<<<<< HEAD
 numpy==2.2.6
 pandas==2.3.3
 scikit-learn==1.7.2
 category-encoders==2.8.1
 lightgbm==4.6.0
+=======
+pandas==2.3.3
+numpy==2.2.6
+scikit-learn==1.7.2
+lightgbm==4.6.0
+category-encoders==2.8.1
+>>>>>>> 29a1a36 (Pin deployment dependencies)
 joblib==1.5.3
