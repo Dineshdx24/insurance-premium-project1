@@ -1,6 +1,6 @@
 # Insurance Premium Prediction
 
-## 📌 Project Overview
+##  Project Overview
 
 This project predicts insurance premium amounts based on customer demographic, health, financial, lifestyle, and policy-related information.
 
@@ -20,7 +20,7 @@ The project covers the complete machine learning workflow, including:
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 The goal of this project is to develop a machine learning regression model that can predict the insurance premium amount for a customer based on their available information.
 
@@ -28,7 +28,7 @@ This can help insurance companies estimate premiums more efficiently and provide
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The dataset contains customer and policy-related information such as:
 
@@ -59,7 +59,7 @@ The original training and testing datasets are not included in this repository b
 
 ---
 
-## 🔧 Data Preprocessing
+##  Data Preprocessing
 
 The following preprocessing techniques were applied:
 
@@ -75,7 +75,7 @@ The following preprocessing techniques were applied:
 
 ---
 
-## ⚙️ Feature Engineering
+##  Feature Engineering
 
 Additional features were created to improve model performance, including:
 
@@ -88,7 +88,7 @@ Additional features were created to improve model performance, including:
 
 ---
 
-## 🤖 Machine Learning Models
+##  Machine Learning Models
 
 Several regression models were evaluated, including:
 
@@ -107,7 +107,7 @@ The models were compared using:
 
 ---
 
-## 🏆 Model Performance
+##  Model Performance
 
 The best-performing model during experimentation was based on the evaluation results obtained on the validation/test data.
 
@@ -124,7 +124,7 @@ The best-performing model during experimentation was based on the evaluation res
 
 ---
 
-## 💾 Saved Model Files
+##  Saved Model Files
 
 The repository contains serialized files used by the application:
 
@@ -134,7 +134,7 @@ The repository contains serialized files used by the application:
 
 ---
 
-## 🌐 Streamlit Application
+##  Streamlit Application
 
 The project includes a Streamlit application for making insurance premium predictions.
 
@@ -142,3 +142,6 @@ The application is contained in:
 
 ```text
 app.py
+
+##  Streamlit app link
+https://insurance-premium-project1-5byygcuqqkxkjkfmjzwnec.streamlit.app/
